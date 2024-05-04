@@ -1,0 +1,77 @@
+.warna1 {
+    background-color: #db016e;
+
+}
+.warna1:hover {
+    background-color: #db016e;
+    cursor: pointer;
+}
+.warna2 {
+    background-color: #db016e;
+}
+.warna2:hover {
+    background-color: #db016e;
+    cursor: pointer;
+}
+.warna3 {
+    background-color: #db016e;
+}
+.warna3:hover{
+    background-color: #db016e;
+    cursor: pointer;
+}
+
+.warna4 {
+    background-color: #db016e;
+}
+.banner {
+    height: 80vh;
+    background: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url('../image/backgroud2.jpg');
+    background-size: 80vh;
+}
+
+.kategori {
+    height: 250px;
+}
+.baju-pria {
+    background: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url('../image/minyak goreng.jpg');
+    background-size: cover;
+    background-position: center;
+}
+.baju-wanita {
+    background: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url('../image/sabun piring.jpg');
+    background-size: cover;
+    background-position: center;
+}
+.jam-tangan {
+    background: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url('../image/sabun baju.jpg');
+    background-size: cover;
+    background-position: center;
+}
+.kategori h3 a {
+    text-decoration: none;
+    
+}
+.kategori h3 a:hover {
+    color: #db016e;
+}
+.images-box {
+    height: 250px;
+
+}
+
+.images-box img{
+    height: 100%;
+    width: 100%;
+    object-fit:cover ;
+    object-position: center;
+}
+
+.banner-produk {
+    height: 30vh;
+    background: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url('../image/backgroud.jpg');
+    background-size: 30vh;
+}
+.list-group a{
+    text-decoration: none;
+}
